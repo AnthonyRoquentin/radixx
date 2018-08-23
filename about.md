@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-sidebar_link: false
+sidebar_link: true
 ---
 **Radixx** (previously *SexRobotz*) is a live simulation of the Single-Direcive Emergent Learning (SDEL) model of cognitive semiotics, which is an extension of [procedural rhetoric](http://www.arts.rpi.edu/public_html/ruiz/EGDFall10/readings/RhetoricVideoGames_Bogost.pdf) and [deconstructionism](https://prelectur.stanford.edu/lecturers/derrida/deconstruction.html).
 
