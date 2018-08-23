@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Radixx
 tagline:          'A Simulation in Cognitive Semiotics'
-description:      'A simulation of the Single-Directive Emergent Learning model'
+description:      'A simulation of the Single-Directive Emergent Learning model using deep neural networks'
 url:              https://anthonyroquentin.github.io
 baseurl:          '/'
                   # the optional subpath of your site, e.g. "/blog"
