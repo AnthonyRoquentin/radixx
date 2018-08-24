@@ -6,8 +6,8 @@ layout: default
   {% include pagination-newer.html %}
 
   {{ content }}
-
-  {% for post in paginator.posts %}
+  {% assign postss = paginator.posts | sort: 'title' %}
+  {% for post in postss %}
   <article class="post-body">
     <h2 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
