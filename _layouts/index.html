@@ -6,7 +6,7 @@ layout: default
   {% include pagination-newer.html %}
 
   {{ content }}
-  {% assign postss = paginator.posts | sort: 'title' %}
+  {% assign postss = paginator.posts | sort: 'title' | reverse %}
   {% for post in postss %}
   <article class="post-body">
     <h2 class="post-title">
