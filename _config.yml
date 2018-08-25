@@ -18,7 +18,7 @@ author:
   name:           'Anthony Roquentin'
   url:            https://anthonyroquentin.github.io
 
-paginate:         10
+paginate:         30
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
